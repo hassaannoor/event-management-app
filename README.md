@@ -4,6 +4,8 @@
 
 **Event Manifest_01** is a React-based state management demonstration built for **CS-343: Web Engineering**. It moves beyond standard CRUD operations by implementing a distinct "International Editorial" design language, featuring high-contrast typography, strict grid layouts, and complex state batching logic.
 
+<img width="469" height="712" alt="image" src="https://github.com/user-attachments/assets/4080a5ae-2e4c-4b0a-b131-3894edf01c99" />
+
 ---
 
 ## ⚡ Features
