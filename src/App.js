@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import GuestForm from "./GuestForm";
-import GuestList from "./GuestList";
+import GuestForm from "./componenets/GuestForm";
+import GuestList from "./componenets/GuestList";
 import "./styles.css";
 
 const App = () => {
